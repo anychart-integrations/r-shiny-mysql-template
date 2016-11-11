@@ -6,13 +6,14 @@ This example shows how to use Anychart library with the R programming language, 
 
 ## Running
 
-To use this sample you must have R installed, if not you can visit [offcial R site](https://www.r-project.org/) or follow [these instructions](https://www.digitalocean.com/community/tutorials/how-to-set-up-r-on-ubuntu-14-04);
+To use this sample you must have R installed, if not you can visit [official R site](https://www.r-project.org/) or follow [these instructions](https://www.digitalocean.com/community/tutorials/how-to-set-up-r-on-ubuntu-14-04);
 MySQL installed and running, if not please check out [MySQL download page](https://dev.mysql.com/downloads/installer/) and follow [these instructions](http://dev.mysql.com/doc/refman/5.7/en/installing.html).
 
 To check your installations, run the following command in the command line:
 ```
 $ R --version
 R version 3.3.2 (2016-10-31) -- "Sincere Pumpkin Patch"... # sample output
+
 $ mysql --version
 mysql  Ver 14.14 Distrib 5.5.52, for debian-linux-gnu (x86_64) using readline 6. # sample output
 ```
