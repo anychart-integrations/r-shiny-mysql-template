@@ -50,10 +50,11 @@ Install application dependencies, one after another and init Shiny:
 
 > library(shiny)
 ```
+If you have some trouble with dependencies installation, carefully read error messages, e.g. to install 'RMySQL' you need `sudo apt-get install libmysqlclient-dev` firstly.
 
-Run application supplying absolute path to project folder, e.g.:
+Run application supplying absolute path to project folder:
 ```
-> runApp("/work/r-shiny-mysql-template")
+> runApp("{PATH_TO_TEMPLATE}") # e.g. runApp("~/work/r-shiny-mysql-template") 
 ```
 
 Your browser will open the appliation automatically.
