@@ -50,7 +50,7 @@ Install application dependencies, one after another and init Shiny:
 
 > library(shiny)
 ```
-If you have some trouble with dependencies installation, carefully read error messages, e.g. to install 'RMySQL' you need `sudo apt-get install libmysqlclient-dev` firstly.
+If you have some troubles with dependencies installation, carefully read error messages, e.g. to install 'RMySQL' you may need `sudo apt-get install libmysqlclient-dev` firstly.
 
 Run application supplying absolute path to project folder:
 ```
