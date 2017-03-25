@@ -1,7 +1,5 @@
 [<img src="https://cdn.anychart.com/images/logo-transparent-segoe.png?2" width="234px" alt="AnyChart - Robust JavaScript/HTML5 Chart library for any project">](https://anychart.com)
-R basic template
-=========================
-
+# R basic template
 This example shows how to use Anychart library with the R programming language, Shiny web framework and MySQL database.
 
 ## Running
