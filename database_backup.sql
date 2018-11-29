@@ -27,7 +27,7 @@ BEGIN
       ('pears', 3),
       ('apricots', 7),
       ('kiwis', 9),
-      ('mangos', 12),
+      ('mangoes', 12),
       ('figs', 4),
       ('limes', 8);
   END IF;
